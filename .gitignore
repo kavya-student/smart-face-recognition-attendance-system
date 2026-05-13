@@ -1,0 +1,5 @@
+dataset/
+trainer/
+attendance.csv
+__pycache__/
+*.pyc
